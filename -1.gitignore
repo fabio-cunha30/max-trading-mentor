@@ -1,0 +1,27 @@
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# Chaves sensíveis
+*API_KEY*
+*GROQ_KEY*
+*gsk_*
+
+# Node modules
+node_modules/
+npm-debug.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+__pycache__/
+.cache/
