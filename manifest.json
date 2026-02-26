@@ -1,0 +1,19 @@
+{
+  "name": "TradeMax Academy",
+  "short_name": "TradeMax",
+  "description": "Day Trade B3 — Do zero ao profissional",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060a0f",
+  "theme_color": "#00c896",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["education", "finance"],
+  "lang": "pt-BR"
+}
